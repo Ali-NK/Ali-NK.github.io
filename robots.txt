@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://alinawazkhan.vercel.app/sitemap.xml
+Sitemap: https://ali-nk.github.io/sitemap.xml
