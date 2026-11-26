@@ -22,6 +22,6 @@
 - Helpdesk Platform: issue logging and resolution for operations teams (Laravel, React.js)
 
 ## Links
-- Website: https://alinawazkhan.vercel.app/
+- Website: https://ali-nk.github.io/
 - LinkedIn: https://www.linkedin.com/in/alinawaz-khan
 - GitHub: https://github.com/Ali-NK
