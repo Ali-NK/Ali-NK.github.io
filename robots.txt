@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alinawazkhan.vercel.app/sitemap.xml
