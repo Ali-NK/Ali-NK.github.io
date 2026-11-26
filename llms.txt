@@ -1,0 +1,27 @@
+# Ali Nawaz Khan
+
+> Senior Software Engineer (Full-Stack) based in Lahore, Pakistan. Builds secure, scalable web applications with PHP, Laravel, React.js, REST APIs, MySQL and PostgreSQL.
+
+## Profile
+- Name: Ali Nawaz Khan
+- Role: Senior Software Engineer (Full-Stack) at Physicians Revenue Group, Inc. (PRG), since February 2026; Software Engineer at PRG from October 2023 to January 2026
+- Location: Lahore, Punjab, Pakistan
+- Education: MCS (Master of Computer Science), University of Sahiwal, 2020–2022
+- Languages: English, Urdu
+
+## Skills
+- Backend: PHP, Laravel, REST API design
+- Frontend: React.js, JavaScript, HTML5, CSS3, Bootstrap
+- Databases: MySQL, PostgreSQL
+- Practices: HIPAA-compliant development, role-based access control, Git, Postman, Jira, Agile
+
+## Systems built
+- Performance Reporting System: management dashboards for team and operational metrics with role-based access (Laravel, React.js, MySQL)
+- Credentialing Ticketing System: end-to-end tracking of provider credentialing requests (Laravel, React.js, MySQL)
+- Practice Management System: core modules for clinical and administrative workflows (Laravel, React.js, PostgreSQL)
+- Helpdesk Platform: issue logging and resolution for operations teams (Laravel, React.js)
+
+## Links
+- Website: https://alinawazkhan.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/alinawaz-khan
+- GitHub: https://github.com/Ali-NK
